@@ -21,6 +21,7 @@ phidata\\Scripts\\activate
 Install the core package:
 ```bash
 pip install -U phidata
+pip install gardio
 ```
 
 ### Additional Packages
